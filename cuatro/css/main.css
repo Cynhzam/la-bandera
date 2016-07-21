@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.uno {
+	display: inline-block;
+	background-color: yellow;
+	padding: 10px;
+}
+
+.dos {
+	display: inline-block;
+	background-color: red;
+	padding: 10px;
+}
+
+.tres {
+	display: inline-block;
+	background-color: yellow;
+	padding: 10px;
+}
